@@ -1,0 +1,5 @@
+# Grade Point Total
+# Gives total number of possible points
+
+def pts_total(x)
+  puts
